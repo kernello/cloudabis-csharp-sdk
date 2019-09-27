@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABIS-sdk-console-app\\CloudABIS-sdk-console-app.csproj": {}
+  },
+  "projects": {
+    "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABIS-sdk-console-app\\CloudABIS-sdk-console-app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABIS-sdk-console-app\\CloudABIS-sdk-console-app.csproj",
+        "projectName": "CloudABIS-sdk-console-app",
+        "projectPath": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABIS-sdk-console-app\\CloudABIS-sdk-console-app.csproj",
+        "packagesPath": "C:\\Users\\mahiuddin\\.nuget\\packages\\",
+        "outputPath": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABIS-sdk-console-app\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahiuddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\cloudabis-sdk\\cloudabis-sdk.csproj": {
+                "projectPath": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\cloudabis-sdk\\cloudabis-sdk.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\cloudabis-sdk\\cloudabis-sdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\cloudabis-sdk\\cloudabis-sdk.csproj",
+        "projectName": "CloudABIS-SDK",
+        "projectPath": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\cloudabis-sdk\\cloudabis-sdk.csproj",
+        "packagesPath": "C:\\Users\\mahiuddin\\.nuget\\packages\\",
+        "outputPath": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\cloudabis-sdk\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahiuddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Net.Http.Formatting.Extension": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

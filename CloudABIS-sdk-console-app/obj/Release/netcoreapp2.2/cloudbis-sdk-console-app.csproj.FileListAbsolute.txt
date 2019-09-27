@@ -1,0 +1,10 @@
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\bin\Release\netcoreapp2.2\cloudbis-sdk-console-app.deps.json
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\bin\Release\netcoreapp2.2\cloudbis-sdk-console-app.runtimeconfig.json
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\bin\Release\netcoreapp2.2\cloudbis-sdk-console-app.runtimeconfig.dev.json
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\bin\Release\netcoreapp2.2\cloudbis-sdk-console-app.dll
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\bin\Release\netcoreapp2.2\cloudbis-sdk-console-app.pdb
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\obj\Release\netcoreapp2.2\cloudbis-sdk-console-app.csproj.CoreCompileInputs.cache
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\obj\Release\netcoreapp2.2\cloudbis-sdk-console-app.AssemblyInfoInputs.cache
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\obj\Release\netcoreapp2.2\cloudbis-sdk-console-app.AssemblyInfo.cs
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\obj\Release\netcoreapp2.2\cloudbis-sdk-console-app.dll
+E:\ddcc\Resource(D)\RP\Cloud ABIS\GiPublicGithub\CloudABIS-sdk-console-app\obj\Release\netcoreapp2.2\cloudbis-sdk-console-app.pdb

@@ -1,0 +1,180 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "a96dc3b8c4e08aa3f7516c97b116ed6fd217df44"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "cloudbis-sdk-console-app/1.0.0": {
+        "dependencies": {
+          "CloudABIS-SCANR": "1.0.0",
+          "CloudABIS-SDK": "1.0.0"
+        },
+        "runtime": {
+          "cloudbis-sdk-console-app.dll": {}
+        }
+      },
+      "CloudABIS-SCANR/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "System.Drawing.Common": "4.6.0",
+          "System.Net.Http.Formatting.Extension": "5.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/cloudabis-scanr.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CloudABIS-SDK/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "System.ComponentModel.Annotations": "4.6.0",
+          "System.Net.Http.Formatting.Extension": "5.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/cloudabis-sdk.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.0.0": {},
+      "Microsoft.Win32.SystemEvents/4.6.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.46214"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.46214"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.6.0": {},
+      "System.Drawing.Common/4.6.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0",
+          "Microsoft.Win32.SystemEvents": "4.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "System.Net.Http.Formatting.Extension/5.2.3": {
+        "runtime": {
+          "lib/System.Net.Http.Extensions.dll": {
+            "assemblyVersion": "2.2.29.0",
+            "fileVersion": "2.2.29.0"
+          },
+          "lib/System.Net.Http.Formatting.dll": {
+            "assemblyVersion": "5.2.3.0",
+            "fileVersion": "5.2.30128.0"
+          },
+          "lib/System.Net.Http.Primitives.dll": {
+            "assemblyVersion": "4.2.29.0",
+            "fileVersion": "4.2.29.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cloudbis-sdk-console-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CloudABIS-SCANR/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/vHluk81TnHuQov6BqtG67VfdzzPVqNX4oJHxSCwyDub59pspFXy7yN4BdnEykun1GutSvGUM200OO+4gQtfOA==",
+      "path": "cloudabis-scanr/1.0.0",
+      "hashPath": "cloudabis-scanr.1.0.0.nupkg.sha512"
+    },
+    "CloudABIS-SDK/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eeEEdq2D7qvTQa1WQX8EoXOqpgB8wvkZ7IULUS09Ko/cRdnHYI2/MN94bcxyDg02HwJZcZDy8eUqpsmW0gBnag==",
+      "path": "cloudabis-sdk/1.0.0",
+      "hashPath": "cloudabis-sdk.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TsETIgVJb/AKoYfSP+iCxkuly5d3inZjTdx/ItZLk2CxY85v8083OBS3uai84kK3/baLnS5/b5XGs6zR7SuuHQ==",
+      "path": "microsoft.netcore.platforms/3.0.0",
+      "hashPath": "microsoft.netcore.platforms.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Edg+pFW5C8WJb680Za2kTV8TqUi6Ahl/WldRVoOVJ23UQLpDHFspa+umgFjkWZw24ETsU99Cg+ErZz683M4chg==",
+      "path": "microsoft.win32.systemevents/4.6.0",
+      "hashPath": "microsoft.win32.systemevents.4.6.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pOd+UhZ3X8xfwKDlgAzowUJNjp8VYVmOHZm++vCd0kq1HZ0zK3mNo2yRXjYgv7Ik/Xi43fmJfND2PLEsQSALCg==",
+      "path": "system.componentmodel.annotations/4.6.0",
+      "hashPath": "system.componentmodel.annotations.4.6.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2A3spjjoPZnvpVh/sDTzd+0H8ZqTdr+hH/6obB8MMfG81EJ85PmxCKDBxhBVQiA25PliKAZ1sKogDcq9mSnFEA==",
+      "path": "system.drawing.common/4.6.0",
+      "hashPath": "system.drawing.common.4.6.0.nupkg.sha512"
+    },
+    "System.Net.Http.Formatting.Extension/5.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BlYwj3Mbgc2i+NqtBZ+bea3LiN9WuGpE8PCylBvhxV0wBs0XTkXJmDuzkNnUyPhDBqKMBwDK0ZCnwJ8LpQ0aEg==",
+      "path": "system.net.http.formatting.extension/5.2.3",
+      "hashPath": "system.net.http.formatting.extension.5.2.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABISSDK\\CloudABIS-sdk-console-app\\cloudbis-sdk-console-app.csproj": {}
+  },
+  "projects": {
+    "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABISSDK\\CloudABIS-sdk-console-app\\cloudbis-sdk-console-app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABISSDK\\CloudABIS-sdk-console-app\\cloudbis-sdk-console-app.csproj",
+        "projectName": "cloudbis-sdk-console-app",
+        "projectPath": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABISSDK\\CloudABIS-sdk-console-app\\cloudbis-sdk-console-app.csproj",
+        "packagesPath": "C:\\Users\\mahiuddin\\.nuget\\packages\\",
+        "outputPath": "E:\\ddcc\\Resource(D)\\RP\\Cloud ABIS\\GiPublicGithub\\CloudABISSDK\\CloudABIS-sdk-console-app\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahiuddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CloudABIS-SCANR": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "CloudABIS-SDK": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
