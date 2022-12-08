@@ -29,7 +29,7 @@ CloudScanr™ also enables the biometric system to instantly work across any web
   </PropertyGroup>
   
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.6.0" />
     <PackageReference Include="System.Net.Http.Formatting.Extension" Version="5.2.3" />
     <None Include="licenses\LICENSE.txt" Pack="true" PackagePath="" />
